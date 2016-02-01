@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Tentando provocar um conflito entre arquivos.
+=======
+>>>>>>> branch 'branch_A' of https://github.com/taisasilva/learning-about-github.git
 Realizanto teste de commits em branchs diferentes.
 Alterando o arquivo.
