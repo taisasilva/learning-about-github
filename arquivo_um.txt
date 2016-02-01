@@ -1,1 +1,2 @@
 Tentando provocar um conflito entre arquivos.
+Realizanto teste de commits em branchs diferentes.
